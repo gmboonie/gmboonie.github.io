@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://gmboonie.github.io/"/>
-  <updated>2014-12-25T14:00:08.464Z</updated>
+  <updated>2014-12-25T14:43:26.793Z</updated>
   <id>http://gmboonie.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://gmboonie.github.io/2014/12/25/MarkDown%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95/"/>
     <id>http://gmboonie.github.io/2014/12/25/MarkDown简明语法/</id>
     <published>2014-12-25T13:53:56.000Z</published>
-    <updated>2014-12-25T13:58:14.000Z</updated>
+    <updated>2014-12-25T14:17:09.000Z</updated>
     <content type="html"><![CDATA[<h1 id="Markdown_语法简明手册">Markdown 语法简明手册</h1>
 <h3 id="1-_使用_和_*_表示斜体和粗体">1. 使用 <em> 和 *</em> 表示斜体和粗体</h3>
 <p>示例：</p>
@@ -122,6 +122,8 @@
 <p>示例：</p>
 <p>这是 <em>斜体</em>，这是 <s]]>
     </summary>
+    
+      <category term="markdown" scheme="http://gmboonie.github.io/tags/markdown/"/>
     
   </entry>
   
