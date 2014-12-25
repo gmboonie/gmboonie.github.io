@@ -1,100 +1,26 @@
-
- <!DOCTYPE HTML>
-<html >
-<head>
-  <meta charset="UTF-8">
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[ComeNie]]></title>
   
-    <title>ComeNie</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://gmboonie.github.io/"/>
+  <updated>2014-12-25T14:00:08.464Z</updated>
+  <id>http://gmboonie.github.io/</id>
+  
+  <author>
+    <name><![CDATA[ComeNie]]></name>
     
-    <meta name="author" content="ComeNie">
-    
-    
-    <meta name="description">
-<meta property="og:type" content="website">
-<meta property="og:title" content="ComeNie">
-<meta property="og:url" content="http://gmboonie.github.io/">
-<meta property="og:site_name" content="ComeNie">
-<meta property="og:description">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="ComeNie">
-<meta name="twitter:description">
-
-
-    
-    <link rel="alternative" href="/atom.xml" title="ComeNie" type="application/atom+xml">
-    
-    
-    <link rel="icon" href="/img/favicon.ico">
-    
-    
-    <link rel="apple-touch-icon" href="/img/jacman.jpg">
-    <link rel="apple-touch-icon-precomposed" href="/img/jacman.jpg">
-    
-    <link rel="stylesheet" href="/css/style.css" type="text/css">
-
-</head>
-
-  <body>
-    <header>
-      <div>
-		
-			<div id="imglogo">
-				<a href="/"><img src="/img/logo.png" alt="ComeNie" title="ComeNie"/></a>
-			</div>
-			
-			<div id="textlogo">
-				<h1 class="site-name"><a href="/" title="ComeNie">ComeNie</a></h1>
-				<h2 class="blog-motto"></h2>
-			</div>
-			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
-			</a></div>
-			<nav class="animated">
-				<ul>
-					<ul>
-					 
-						<li><a href="/">主页</a></li>
-					
-						<li><a href="/archives">归档</a></li>
-					
-						<li><a href="/about">阅读清单</a></li>
-					
-					<li>
- 					
-					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
-						<label>Search</label>
-						<input type="search" id="search" name="q" autocomplete="off" maxlength="20" placeholder="Search" />
-						<input type="hidden" name="q" value="site:gmboonie.github.io">
-					</form>
-					
-					</li>
-				</ul>
-			</nav>			
-</div>
-    </header>
-    <div id="container">
-      <div id="main">
-
-   
-    
-    <article class="post-expand post" itemprop="articleBody"> 
-        <header class="article-info clearfix">
-  <h1 itemprop="name">
-    
-      <a href="/2014/12/25/MarkDown简明语法/" title="MarkDown简明语法" itemprop="url">MarkDown简明语法</a>
-  </h1>
-  <p class="article-author">By
-       
-		<a href="http://gmboonie.github.io/about" title="ComeNie" target="_blank" itemprop="author">ComeNie</a>
-		
-  <p class="article-time">
-    <time datetime="2014-12-25T13:53:56.000Z" itemprop="datePublished"> Published Dec 25 2014</time>
-    
-  </p>
-</header>
-    <div class="article-content">
-        
-        <h1 id="Markdown_语法简明手册">Markdown 语法简明手册</h1>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[MarkDown简明语法]]></title>
+    <link href="http://gmboonie.github.io/2014/12/25/MarkDown%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95/"/>
+    <id>http://gmboonie.github.io/2014/12/25/MarkDown简明语法/</id>
+    <published>2014-12-25T13:53:56.000Z</published>
+    <updated>2014-12-25T13:58:14.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Markdown_语法简明手册">Markdown 语法简明手册</h1>
 <h3 id="1-_使用_和_*_表示斜体和粗体">1. 使用 <em> 和 *</em> 表示斜体和粗体</h3>
 <p>示例：</p>
 <p>这是 <em>斜体</em>，这是 <strong>粗体</strong>。</p>
@@ -189,191 +115,14 @@
 <p>代码块 2<br>:   这是代码块的定义（左侧有一个可见的冒号和四个不可见的空格）</p>
 <pre><code>    代码块（左侧有八个不可见的空格）
 </code></pre><p>转自<a href="http://ghosertblog.github.com" target="_blank" rel="external">http://ghosertblog.github.com</a></p>
-
-        
-        
-        <p class="article-more-link">
-          
-       </p>
-    </div>
-    <footer class="article-footer clearfix">
-<div class="article-catetags">
-
-
-</div>
-
-
-
-
-<div class="comments-count">
-	
-	  	<span></span>
-		<a href="http://gmboonie.github.io/2014/12/25/MarkDown简明语法/#comments" class="ds-thread-count comments-count-link" data-thread-key="2014/12/25/MarkDown简明语法/" data-count-type="comments">&nbsp;</a>
-	
-</div>
-
-</footer>
-
-
-    </article>
-
-
-
-
-
-
-
-</div>
-      <div class="openaside"><a class="navbutton" href="#" title="Show Sidebar"></a></div>
-
-<div id="asidepart">
-<div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div>
-<aside class="clearfix">
-
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="Markdown_语法简明手册">Markdown 语法简明手册</h1>
+<h3 id="1-_使用_和_*_表示斜体和粗体">1. 使用 <em> 和 *</em> 表示斜体和粗体</h3>
+<p>示例：</p>
+<p>这是 <em>斜体</em>，这是 <s]]>
+    </summary>
+    
+  </entry>
   
-
-  
-
-  <div class="linkslist">
-  <p class="asidetitle">Links</p>
-    <ul>
-        
-          <li>
-            
-            	<a href="http://wuchong.me" target="_blank" title="Jark&#39;s Blog">Jark&#39;s Blog</a>
-            
-          </li>
-        
-    </ul>
-</div>
-
-</aside>
-</div>
-    </div>
-    <footer><div id="footer" >
-	
-	<div class="line">
-		<span></span>
-		<div class="author"></div>
-	</div>
-	
-	
-	<section class="info">
-		<p> Nothing,Something,Everything... <br/>
-			But...</p>
-	</section>
-	 
-	<div class="social-font" class="clearfix">
-		
-		<a href="http://weibo.com/boonie008" target="_blank" class="icon-weibo" title="微博"></a>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	</div>
-	
-</div>
-</footer>
-    <script src="/js/jquery-2.0.3.min.js"></script>
-<script src="/js/jquery.imagesloaded.min.js"></script>
-<script src="/js/gallery.js"></script>
-
-<script type="text/javascript">
-$(document).ready(function(){ 
-  $('.navbar').click(function(){
-    $('header nav').toggleClass('shownav');
-  });
-  var myWidth = 0;
-  function getSize(){
-    if( typeof( window.innerWidth ) == 'number' ) {
-      myWidth = window.innerWidth;
-    } else if( document.documentElement && document.documentElement.clientWidth) {
-      myWidth = document.documentElement.clientWidth;
-    };
-  };
-  var m = $('#main'),
-      a = $('#asidepart'),
-      c = $('.closeaside'),
-      o = $('.openaside');
-  $(window).resize(function(){
-    getSize(); 
-    if (myWidth >= 1024) {
-      $('header nav').removeClass('shownav');
-    }else
-    {
-      m.removeClass('moveMain');
-      a.css('display', 'block').removeClass('fadeOut');
-      o.css('display', 'none');
-        
-    }
-  });
-  c.click(function(){
-    a.addClass('fadeOut').css('display', 'none');
-    o.css('display', 'block').addClass('fadeIn');
-    m.addClass('moveMain');
-  });
-  o.click(function(){
-    o.css('display', 'none').removeClass('beforeFadeIn');
-    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');      
-    m.removeClass('moveMain');
-  });
-  $(window).scroll(function(){
-    o.css("top",Math.max(80,260-$(this).scrollTop()));
-  });
-});
-</script>
-
-
-
-
-<script type="text/javascript">
-  var duoshuoQuery = {short_name:"gmboonie"};
-  (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = '//static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
-    || document.getElementsByTagName('body')[0]).appendChild(ds);
-  })();
-</script> 
-
-
-
-
-
-
-
-
-
-<!-- Analytics Begin -->
-
-
-
-
-
-<!-- Analytics End -->
-
-<!-- Totop Begin -->
-
-	<div id="totop">
-	<a title="Back to Top"><img src="/img/scrollup.png"/></a>
-	</div>
-	<script src="/js/totop.js"></script>
-
-<!-- Totop End -->
-
-<!-- MathJax Begin -->
-<!-- mathjax config similar to math.stackexchange -->
-
-
-<!-- MathJax End -->
-
-  </body>
- </html>
+</feed>
